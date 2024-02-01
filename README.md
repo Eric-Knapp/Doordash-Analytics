@@ -1,1 +1,1 @@
-DoorDash Store Analytics
+<p>DoorDash Store Analytics</p>
